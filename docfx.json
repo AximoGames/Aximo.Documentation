@@ -11,7 +11,7 @@
             "External/**",
             "Demo/**"
           ],
-          "src": ".."
+          "src": "../AxEngine"
         }
       ],
       "dest": "api",
