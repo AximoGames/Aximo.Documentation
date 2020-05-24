@@ -4,3 +4,5 @@
   href: hello-cube/index.md
 - name: Color Cube
   href: color-cube/index.md
+- name: Texture Cube
+  href: texture-cube/index.md

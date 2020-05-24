@@ -20,7 +20,7 @@ $Replace = '"'
 [RegEx]$Search2 = '(\.html)"'
 $Replace2 = '"'
 
-ForEach ($File in (Get-ChildItem -Path $destinationRoot -Recurse -File)) {
+ForEach ($File in (Get-ChildItem -Path $destinationRoot -Filter *.html -Recurse -File)) {
     (Get-Content $File.FullName) -Replace $Search,$Replace -Replace $Search2,$Replace2 | 
         Set-Content $File.FullName
 }
