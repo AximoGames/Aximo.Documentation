@@ -2,6 +2,8 @@
 #   href: articles/
 - name: Home
   href: index.md
+- name: Samples
+  href: samples/
 - name: Api Documentation
   href: api/
   homepage: api/index.md
