@@ -8,3 +8,5 @@
   href: texture-cube/index.md
 - name: Combine Meshes
   href: combine-mesh/index.md
+- name: Shadows
+  href: shadows/index.md

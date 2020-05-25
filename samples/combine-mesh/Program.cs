@@ -29,12 +29,12 @@ public class MyApplication : Application
         var cylinder1 = Mesh.CreateCylinder(slices: 16);
         cylinder1.Scale(0.3f, 0.3f);
         cylinder1.Translate(new Vector3(0, 0, 0.05f));
-        sphere.AddMesh(cylinder1, 0, 1);
+        sphere.AddMesh(cylinder1, filterMaterialId: 0, newMaterialId: 1);
 
         var cylinder2 = Mesh.CreateCylinder();
         cylinder2.Scale(0.05f, 0.05f);
         cylinder2.Translate(new Vector3(0, 0, 0.3f));
-        sphere.AddMesh(cylinder2, 0, 2);
+        sphere.AddMesh(cylinder2, filterMaterialId: 0, newMaterialId: 2);
         #endregion
 
         var comp = new StaticMeshComponent(sphere)
