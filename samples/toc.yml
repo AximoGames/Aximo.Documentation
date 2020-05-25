@@ -6,3 +6,5 @@
   href: color-cube/index.md
 - name: Texture Cube
   href: texture-cube/index.md
+- name: Combine Meshes
+  href: combine-mesh/index.md
