@@ -43,7 +43,8 @@
       {
         "files": [
           "images/**",
-          "samples/**.jpg"
+          "samples/**.jpg",
+          "samples/**.mp4"
         ]
       }
     ],

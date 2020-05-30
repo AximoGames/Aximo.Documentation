@@ -10,3 +10,5 @@
   href: combine-mesh/index.md
 - name: Shadows
   href: shadows/index.md
+- name: Tween Animation
+  href: tweening/index.md

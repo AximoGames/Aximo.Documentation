@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shadows", "shadows\shadows.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "texture-cube", "texture-cube\texture-cube.csproj", "{A538369D-8D64-4A13-BA52-F0F6825C1A37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tweening", "tweening\tweening.csproj", "{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{A538369D-8D64-4A13-BA52-F0F6825C1A37}.Release|x64.Build.0 = Release|Any CPU
 		{A538369D-8D64-4A13-BA52-F0F6825C1A37}.Release|x86.ActiveCfg = Release|Any CPU
 		{A538369D-8D64-4A13-BA52-F0F6825C1A37}.Release|x86.Build.0 = Release|Any CPU
+		{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}.Debug|x64.Build.0 = Debug|Any CPU
+		{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}.Debug|x86.Build.0 = Debug|Any CPU
+		{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}.Release|x64.ActiveCfg = Release|Any CPU
+		{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}.Release|x64.Build.0 = Release|Any CPU
+		{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}.Release|x86.ActiveCfg = Release|Any CPU
+		{81DEB759-00D3-44E9-A8AC-0CC2DD1C0E6E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
