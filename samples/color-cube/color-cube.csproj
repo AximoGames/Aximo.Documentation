@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="aximo" Version="1.0.5" />
+    <PackageReference Include="aximo" Version="1.0.7" />
   </ItemGroup>
 
 </Project>
