@@ -7,5 +7,5 @@ Animate objects.
 Complete sample:
 [!code-cs[Main](Program.cs)]
 
-### Video
-> [!Video https://www.aximo.games/samples/tweening/video.mp4]
+### Screenshot
+![Screenshot](animation.gif)

@@ -44,6 +44,7 @@
         "files": [
           "images/**",
           "samples/**.jpg",
+          "samples/**.gif",
           "samples/**.mp4"
         ]
       }
